@@ -19,6 +19,7 @@ namespace BookListStat.repository
                 new Book { Book_id = 3, Book_Name= "English" ,Cost = 200 },
                 new Book { Book_id = 4, Book_Name= "Biology" ,Cost = 250 },
                 new Book { Book_id = 5, Book_Name= "Maths" ,Cost = 300 },
+                new Book { Book_id = 6, Book_Name= "check" ,Cost = 10000 },
             };
 
         }
